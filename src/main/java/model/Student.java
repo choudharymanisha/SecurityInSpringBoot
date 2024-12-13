@@ -1,4 +1,4 @@
-package com.manisha.demo_sec;
+package model;
 
 public class Student {
     private int id;
